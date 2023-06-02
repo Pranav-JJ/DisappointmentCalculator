@@ -11,6 +11,7 @@ DisappointmentCalculator™ is a fun calculator created for students from VIT Pu
 ## Installation
 1. Make sure you have a stable version of Python installed on your system.
 2. Install the Tkinter module by running the following command:
+
    ```
    pip install tk
    ```

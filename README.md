@@ -29,4 +29,4 @@ DisappointmentCalculator™ is intended purely for entertainment purposes. Pleas
 Contributions to the DisappointmentCalculator™ project are welcome. If you have any ideas for improvements or new features, feel free to create a pull request or open an issue in the GitHub repository.
 
 ## License
-The DisappointmentCalculator™ is licensed under the [WTFPL_License](http://www.wtfpl.net/).
+The DisappointmentCalculator™ is licensed under the [WTFPL License](http://www.wtfpl.net/).

@@ -18,7 +18,7 @@ DisappointmentCalculator™ is a fun calculator created for students from VIT Pu
 ## Usage
 1. Clone or download the DisappointmentCalculator™ repository to your local machine.
 2. Open the repository in your preferred Python IDE or editor.
-3. Run the `disappointment_calculator.py` file.
+3. Run the `DisappointmentCalculator.py` file.
 4. Input your expected results in the provided fields.
 5. Submit to receive your estimated SGPA and CGPA scores and possibly a bonus of disappointment.
 
@@ -29,4 +29,4 @@ DisappointmentCalculator™ is intended purely for entertainment purposes. Pleas
 Contributions to the DisappointmentCalculator™ project are welcome. If you have any ideas for improvements or new features, feel free to create a pull request or open an issue in the GitHub repository.
 
 ## License
-The DisappointmentCalculator™ is licensed under the [WTFPL_License]([http://www.wtfpl.net/]).
+The DisappointmentCalculator™ is licensed under the [WTFPL_License](http://www.wtfpl.net/).

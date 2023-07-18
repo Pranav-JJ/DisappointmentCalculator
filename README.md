@@ -29,5 +29,5 @@ It goes without saying but DisappointmentCalculator™ is intended purely for en
 ## Contribution
 Contributions to the DisappointmentCalculator™ project are welcome. If you have any ideas for improvements or new features, feel free to create a pull request or open an issue in the GitHub repository.
 
-## License
+<!--## License
 The DisappointmentCalculator™ is licensed under the [WTFPL License](http://www.wtfpl.net/).
